@@ -54,7 +54,7 @@ def signup():
            new_user =  User(name=name,email=email,password=generate_password_hash(password1,method='pbkdf2:sha256'))#wow sha256 hashing method is used in bitcoin too btw
            db.session.add(new_user)
            db.session.commit()
-           login_user(user,remember=True)
+           login_user(new_user,remember=True)
            flash("Acount Created!",category='success')
            return redirect(url_for('views.home'))
 
