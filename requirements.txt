@@ -1,108 +1,13 @@
-aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
-aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
-appdirs==1.4.4
-appnope @ file:///Users/ktietz/ci_310/appnope_1643965056645/work
-archspec @ file:///croot/archspec_1709217642129/work
-argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
-atomicwrites==1.4.0
-Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
-autopep8 @ file:///croot/autopep8_1708962882016/work
-binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
-bkcharts==0.2
-bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
-chardet @ file:///Users/ktietz/ci_310/chardet_1643965356347/work
-charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
-clyent==1.2.2
-conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1742218810516/work/src
-conda-token @ file:///croot/conda-token_1741722942912/work
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
-diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
-et-xmlfile==1.1.0
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
-flask-cors==6.0.1
+blinker==1.9.0
+click==8.2.1
+Flask==3.1.1
 Flask-Login==0.6.3
 Flask-SQLAlchemy==3.1.1
-gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 gunicorn==23.0.0
-HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
-hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
-incremental @ file:///croot/incremental_1708639938299/work
-inflection==0.5.1
-iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
-intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_1630511889664/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-itemadapter @ file:///tmp/build/80754af9/itemadapter_1626442940632/work
-jaraco.classes @ file:///tmp/build/80754af9/jaraco.classes_1620983179379/work
-jdcal @ file:///Users/ktietz/demo/mc3/conda-bld/jdcal_1630584345063/work
-json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
-jsonpointer==2.1
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
-libarchive-c @ file:///croot/python-libarchive-c_1726069797193/work
-matplotlib==3.10.0
-mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
-MouseInfo==0.1.3
-mss==10.0.0
-multipledispatch @ file:///Users/ktietz/ci_310/multipledispatch_1643970671170/work
-nose @ file:///opt/conda/conda-bld/nose_1642704612149/work
-olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
-opencv-python==4.11.0.86
-pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
-pep8==1.7.1
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-ply==3.11
-Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
-protobuf==4.25.3
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
-py @ file:///opt/conda/conda-bld/py_1644396412707/work
-pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
-pyasn1-modules==0.2.8
-PyAutoGUI==0.9.54
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-PyDispatcher==2.0.5
-PyGetWindow==0.0.9
-pyls-spyder==0.4.0
-PyMsgBox==1.0.9
-pyobjc-core==11.1
-pyobjc-framework-Cocoa==11.1
-pyobjc-framework-Quartz==11.1
-pyperclip==1.9.0
-PyQt5==5.15.10
-PyQtWebEngine==5.15.6
-PyRect==0.2.0
-PyScreeze==1.0.1
-PySocks @ file:///Users/ktietz/ci_310/pysocks_1643961536721/work
-python-lsp-jsonrpc @ file:///croot/python-lsp-jsonrpc_1708962872556/work
-python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
-pytweening==1.2.0
-QDarkStyle @ file:///croot/qdarkstyle_1709231003551/work
-requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
-rubicon-objc==0.5.1
-service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-smmap @ file:///tmp/build/80754af9/smmap_1611694433573/work
-snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1637937080595/work
-sortedcollections @ file:///tmp/build/80754af9/sortedcollections_1611172717284/work
-sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
-sphinxcontrib-applehelp @ file:///home/ktietz/src/ci/sphinxcontrib-applehelp_1611920841464/work
-sphinxcontrib-devhelp @ file:///home/ktietz/src/ci/sphinxcontrib-devhelp_1611920923094/work
-sphinxcontrib-htmlhelp @ file:///tmp/build/80754af9/sphinxcontrib-htmlhelp_1623945626792/work
-sphinxcontrib-jsmath @ file:///home/ktietz/src/ci/sphinxcontrib-jsmath_1611920942228/work
-sphinxcontrib-qthelp @ file:///home/ktietz/src/ci/sphinxcontrib-qthelp_1611921055322/work
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-TBB==0.2
-tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
-text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
-three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-tzdata @ file:///croot/python-tzdata_1690578112552/work
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
-webencodings==0.5.1
-websockets==15.0.1
-wurlitzer @ file:///Users/ktietz/ci_310/wurlitzer_1643969655374/work
-xlrd @ file:///croot/xlrd_1685030938141/work
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+packaging==25.0
+SQLAlchemy==2.0.41
+typing_extensions==4.14.0
+Werkzeug==3.1.3
